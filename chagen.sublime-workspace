@@ -1,0 +1,920 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"build",
+				"buildConfig"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"html",
+				"htmlElement"
+			],
+			[
+				"de",
+				"defaultCollapsed"
+			],
+			[
+				"titleas",
+				"titleAsObj"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"convert",
+				"convertCollapses"
+			],
+			[
+				"collap",
+				"collapseComponent__content"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"compo",
+				"componentDidUpdate"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"gallery",
+				"galleryFilter"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git show",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"git ",
+				"Git: Open Modified Files"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"renmae",
+				"Rename File"
+			],
+			[
+				"renae",
+				"Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"git diff",
+				"Git: Diff Staged Files"
+			],
+			[
+				"syntac css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax t",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set syt json",
+				"Set Syntax: JSON"
+			],
+			[
+				"gutter next",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"gutter nex",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"gutter",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"jade ",
+				"Set Syntax: Jade (Python)"
+			],
+			[
+				"sni",
+				"Snippet: if"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"blmae",
+				"Git: Blame"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"bookma",
+				"Bookmarks: Clear All"
+			],
+			[
+				"git status ",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"clear book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings"
+			],
+			[
+				"linter ",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"jsn",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disable pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"blamee",
+				"API Blueprint: Parse to API Elements (JSON)"
+			],
+			[
+				"api bluepr",
+				"Set Syntax: API Blueprint"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"nstall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdo",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"gutter ",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git gutt",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"synta",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"package repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pug linter",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"linter setti",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter settig",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sublime linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indexi",
+				"Indexing Status"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"in",
+				"Indexing Status"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"set synt jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"git bl",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 305.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/trozkanb/Desktop/ChaGen"
+	],
+	"file_history":
+	[
+		"/Users/trozkanb/gwtRepo/ui/specs/components/image-container/image-container-basics-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/.git/COMMIT_EDITMSG",
+		"/Users/trozkanb/gwtRepo/ui/specs/components/in-page-nav/in-page-nav-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/specs/components/serial-number-checker/serial-number-checker-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/in-page-nav/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/gulpfile.js",
+		"/Users/trozkanb/gwtRepo/ui/specs/lib/utils-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/specs/.setup.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/serial_number_checker/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/specs/components/collapse/collapse-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/collapse/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/image-container/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/specs/components/results/list-item-with-img-spec.js",
+		"/Users/trozkanb/gwtRepo/ui/app/componentConfig.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/search/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/search/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/search/tech-specs.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/search/article.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/module.scss",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/_responsive.scss",
+		"/Users/trozkanb/gwtRepo/ui/modules/search/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/modules/article_details/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/lib/utils.js",
+		"/Users/trozkanb/.profile",
+		"/Users/trozkanb/gwtRepo/ui/app/components/collapse/component.scss",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/modules/gallery_tabs/accessory_finder.js",
+		"/Users/trozkanb/Desktop/Export the d20pfsrd/-",
+		"/Users/trozkanb/Desktop/Export the d20pfsrd/manifest.json",
+		"/Users/trozkanb/Desktop/Create Character From Beastiary/manifest.json",
+		"/Users/trozkanb/gwtRepo/ui/modules/micro_survey/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/generic-results/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/generic-result-group/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/index.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/data.template.conf",
+		"/Users/trozkanb/gwtRepo/ui/modules/compatibilities/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/app/lib/apiClient.js",
+		"/Users/trozkanb/gwtRepo/ui/app/reducers/action-creator.js",
+		"/Users/trozkanb/gwtRepo/ui/app/reducers/bannercreator.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/download_details/src/module.jsx.js",
+		"/Users/trozkanb/Desktop/test50353.xml",
+		"/Users/trozkanb/gwtRepo/ui/modules/popular_topics/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/support_categories/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/reactApp.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/libs/react-with-addons-0.12.1.js",
+		"/Users/trozkanb/gwtRepo/ui/app/lib/module-base.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/utils/utils.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/modules/support_external_html/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/modules/specifications/src/module.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/editorial_image/module.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/unsupported_browsers/module.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/unsupported_browsers/browser_details.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/unsupported_browsers/ua-parser.min.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/external_html/data.template.conf",
+		"/Users/trozkanb/gwtRepo/ui/modules/external_html/module.jade",
+		"/Users/trozkanb/gwtRepo/ui/app/components/context-filter/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/form-elements/dropdown/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/app/components/eula/component.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/one_sony_tout_carousel/module.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/one_sony_tout_carousel/module.scss",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/modules/tertiary_tout_container/module.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/main.app.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/category_meta_tags/module.jade",
+		"/Users/trozkanb/gwtRepo/ui/modules/eco_energy_level/module.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/documents/index.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/dealer_locator/index.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/anchor_tag/init.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/carousel/module.jade",
+		"/Users/trozkanb/gwtRepo/ui/modules/download_details/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/modules/category_meta_tags/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/modules/currency_meta_tags/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/ui-lib/src/main/scala/ui/jade/sharedUtilities/LanguagePackUtils.scala",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/modules/article_details/module.conf",
+		"/Users/trozkanb/gwtRepo/ui/app/config/config.js",
+		"/Users/trozkanb/gwtRepo/ui/package.json",
+		"/Users/trozkanb/Desktop/jade-lint-results",
+		"/Users/trozkanb/gwtRepo/ui/jade.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/bin/clientjade",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/lib/compile.js",
+		"/Users/trozkanb/gwtRepo/ui/_BACKUP/compile_client_jade.sh",
+		"/Users/trozkanb/gwtRepo/ui/_BACKUP/create_artifacts.sh",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/jade/lib/parser.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/jade/lib/parser.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/.bin/jade",
+		"/Users/trozkanb/gwtRepo/ui/project/ApplicationBuild.scala",
+		"/Users/trozkanb/gwtRepo/ui/modules/product_multi_specs/module.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/download_details/index.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/page/product_tech_specs.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/article_details/index.jsx.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/article_details/normalize.scss",
+		"/Users/trozkanb/gwtRepo/ui/modules/article_details/_responsive.scss",
+		"/Users/trozkanb/gwtRepo/ui/.gitignore",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/gulp-jade/index.js",
+		"/Users/trozkanb/gwtRepo/ui/modules/editorial_image/module.scss",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/gulp-jade/node_modules/with/node_modules/uglify-js/lib/parse.js",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/gulp-jade/node_modules/jade/lib/jade.js",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/jade/bin/jade",
+		"/Users/trozkanb/gwtRepo/ui/build-config.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/README.md",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/example/tmp2.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/example/templates.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/example/tmp.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/Makefile",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/index.js",
+		"/Users/trozkanb/gwtRepo/ui/package-lock.json",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/package.json",
+		"/Users/trozkanb/gwtRepo/ui/compile_client_jade.sh",
+		"/Users/trozkanb/gwtRepo/ui/modules/additional_meta_tags/module.jade",
+		"/Users/trozkanb/gwtRepo/ui/webpack.config.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/lib/browser/render.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/jade/package.json",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/jade/jade.js",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/jade/test.jade",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/node_modules/jade/index.js",
+		"/Users/trozkanb/gwtRepo/ui/external-html-pages/declaration-of-conformity/build.sh",
+		"/Users/trozkanb/gwtRepo/ui/clientjade/.gitmodules",
+		"/Users/trozkanb/gwtRepo/ui/modules/templates/mock_shared_utils_for_tests.js",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/webpack-cli/bin/cli.js",
+		"/Users/trozkanb/gwtRepo/ui/gulpfile_DEPRECATED.js",
+		"/Users/trozkanb/gwtRepo/ui/set_bucket.js",
+		"/Users/trozkanb/gwtRepo/ui/node_modules/pug-loader/index.js",
+		"/Users/trozkanb/gwtRepo/ui/webpack.config_DEPRECATED.js",
+		"/Users/trozkanb/gwtRepo/ui/README.md",
+		"/Users/trozkanb/gwtRepo/ui/assets/javascripts/templates.js",
+		"/Users/trozkanb/gwtRepo/ui/assets/stylesheets/_page_helpers/_support_home.scss",
+		"/Users/trozkanb/gwtRepo/ui/assets/stylesheets/ltr/_page/support_home.scss",
+		"/Users/trozkanb/gwtRepo/ui/assets/stylesheets/ltr/universalNav.scss",
+		"/Users/trozkanb/gwtRepo/ui/assets/stylesheets/ltr/previewSliceOnly.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "chagen.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"specs/components/image-container/image-container-basics-spec.js",
+				"specs/components/image-container/image-container-basics-spec.js"
+			],
+			[
+				"specs/components/in-page-nav/in-page-nav-spec.js",
+				"specs/components/in-page-nav/in-page-nav-spec.js"
+			],
+			[
+				"specs/components/serial-number-checker/serial-number-checker-spec.js",
+				"specs/components/serial-number-checker/serial-number-checker-spec.js"
+			],
+			[
+				"utils",
+				"app/lib/utils.js"
+			],
+			[
+				"util",
+				"app/lib/utils.js"
+			],
+			[
+				"module.conf",
+				"modules/download_details/module.conf"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"build",
+				"build-config.js"
+			],
+			[
+				"mock_share",
+				"modules/templates/mock_shared_utils_for_tests.js"
+			],
+			[
+				"templ",
+				"assets/javascripts/templates.js"
+			],
+			[
+				"webpack",
+				"webpack.production.config.js"
+			],
+			[
+				"reactApp",
+				"build/reactApp.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"package",
+				"package-lock.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"support_",
+				"assets/stylesheets/ltr/_page/support_home.scss"
+			],
+			[
+				"cheerio",
+				"assets/stylesheets/_common_helpers/_previewSliceOnly.scss"
+			],
+			[
+				"support_home",
+				"assets/stylesheets/ltr/_page/support_home.scss"
+			],
+			[
+				"module-base",
+				"app/lib/module-base.js"
+			],
+			[
+				"_utilities.scss",
+				"assets/stylesheets/_base/_utilities.scss"
+			],
+			[
+				"ProductIntroPlateSpec.scala",
+				"src/test/scala/ui/modules/primary_tout/ProductIntroPlateSpec.scala"
+			],
+			[
+				"dslr_a_gallery",
+				"jasmine/spec/javascripts/fixtures/gallery/dslr_a_gallery.html"
+			],
+			[
+				"gallery_tab.js",
+				"modules/gallery_tabs/gallery_tab.js"
+			],
+			[
+				"store_locator_search",
+				"modules/footer/store_locator_search.js"
+			],
+			[
+				"modules/gallery_tabs/gallery_tab",
+				"modules/gallery_tabs/gallery_tab.js"
+			],
+			[
+				"jasmine",
+				"run_jasmine_specs.sh"
+			],
+			[
+				"gallery_",
+				"modules/gallery_tabs/gallery_tab.js"
+			],
+			[
+				"eco_energy_print/",
+				"modules/eco_energy_print/module.jade"
+			],
+			[
+				"sony-global-utilities",
+				"assets/javascripts/require/sony-global-utilities.js"
+			],
+			[
+				"pro",
+				"modules/product/product_simple.jade"
+			],
+			[
+				"product_mixin",
+				"modules/product/product_mixin.jade"
+			],
+			[
+				".jade",
+				"modules/common/tags.jade"
+			],
+			[
+				".js",
+				"gulpfile.js"
+			],
+			[
+				"product intro pla",
+				"src/test/scala/ui/modules/primary_tout/ProductIntroPlateSpec.scala"
+			],
+			[
+				"productIntro",
+				"src/test/scala/ui/modules/primary_tout/ProductIntroPlateSpec.scala"
+			],
+			[
+				"",
+				"src/test/scala/ui/modules/primary_tout/ProductIntroPlateSpec.scala"
+			],
+			[
+				"partials",
+				"modules/common/partials.jade"
+			],
+			[
+				"ProductIntro",
+				"src/test/scala/ui/modules/primary_tout/product_intro_plate.json"
+			],
+			[
+				"mixin primaryTout",
+				"modules/primary_tout/mixins.jade"
+			],
+			[
+				"loading.js",
+				"assets/javascripts/app_lib/hero.image.loading.js"
+			],
+			[
+				".md",
+				"specs/api/support.md"
+			],
+			[
+				"module.jade",
+				"ui/modules/carousel_tout/module.jade"
+			],
+			[
+				"sony-global-settings",
+				"assets/javascripts/require/sony-global-settings.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sublime Projects/LANGUAGE_PACK.sublime-project"
+			],
+			[
+				"lan",
+				"~/Documents/Sublime Projects/gwt:language_pack.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "s car",
+		"selected_items":
+		[
+			[
+				"s car",
+				"SonyCarousel"
+			],
+			[
+				"",
+				"BuyButton"
+			],
+			[
+				"mainEle",
+				"mainElement"
+			],
+			[
+				"mainele",
+				"mainElement"
+			],
+			[
+				"link",
+				"linkState"
+			]
+		],
+		"width": 900.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

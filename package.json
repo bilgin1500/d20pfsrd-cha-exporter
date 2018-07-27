@@ -1,0 +1,26 @@
+{
+  "name": "d20pfsrd-cha-exporter",
+  "version": "1.0.0",
+  "description": "Character generator (actually exporter) from the lovely d20pfsrd.com. You can give the url of a NPC or beast and have a beautiful, audit-ready character sheet in your hands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilgin1500/d20pfsrd-cha-exporter.git"
+  },
+  "keywords": [
+    "node",
+    "pathfinder",
+    "d20pfsrd.com",
+    "character",
+    "exporter"
+  ],
+  "author": "Bilgin Ozkan <bilgin1500@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilgin1500/d20pfsrd-cha-exporter/issues"
+  },
+  "homepage": "https://github.com/bilgin1500/d20pfsrd-cha-exporter#readme"
+}
